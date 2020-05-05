@@ -1,9 +1,5 @@
 ## Data
 
-- describe the data needed
-- adequate explanation and discussion about the data
-- 
-
 Say, for our problem, a business owner wants to open a new **Restaurant** in the city of **Toronto**. 
 
 In order to decide on a suitable location for a particular business, might take help from a variety of data sources. Historical trends in that area, existing businesses, places or venues around that area - might provide us valueable insights to answer our questions.
