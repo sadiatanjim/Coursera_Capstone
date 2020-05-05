@@ -8,7 +8,7 @@ We use two data sources for this task. Firstly, we need to have a list of probab
 
 An example of a couple of records from the scraped table is as follows: 
 
-![Neighborhood Dataframe from Webscraping]("neighborhood_df.jpg")
+![Neighborhood Dataframe from Webscraping]("https://raw.githubusercontent.com/sadiatanjim/Coursera_Capstone/master/Report/neighborhood_df.jpg")
 
 The second, and most important source of data is the Foursquare API. We shall utilize the neighborhood-wise information obtained from the wikipedia table to make calls to the Foursquare API to collect information about the most popular venues in those locations. Foursquare also categorizes its venues into some categories which might be helpful for our task. We utilize the foursquare API to extract the following data fields for each venue - 
 * Venue Name
@@ -18,4 +18,4 @@ The second, and most important source of data is the Foursquare API. We shall ut
 
 An example of the information obtained from the Foursquare API, after some preprocessing is shown as follows:
 
-![Venue DataFrame from Foursquare]("venue_df.jpg")
+![Venue DataFrame from Foursquare]("https://raw.githubusercontent.com/sadiatanjim/Coursera_Capstone/master/Report/venue_df.jpg")
